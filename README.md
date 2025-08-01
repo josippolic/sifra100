@@ -73,4 +73,4 @@ abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ@Ł!&#$/<>*ł?£&{
 
 ---
 
-Ako želiš, mogu ti pripremiti README.md za ovaj projekt, GUI verziju, ili konverziju u drugi jezik (npr. Java, Python, Kotlin).
+
